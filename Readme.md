@@ -6,14 +6,15 @@ This repo contains links and supplemental files relating to [my presentation](ht
 
 [**DrawBot**](https://drawbot.com) is a free MacOS application and Python library that helps users create 2D vector graphics with code. As a teaching tool, it offers students an easy way to dive into the Python language and immediately see the results of their work (not to mention the ability to save those results in common formats such as PDF, SVG, PNG, and MP4). DrawBot also gives graphic designers and typographers like me the opportunity to set aside traditional design tools like Adobe InDesign and Illustrator and reconsider what design tools can be outside of the world of point-and-click. In this talk, I will share how I use the application to work out my design systems in code, automating repetitive tasks and generating hundreds of variations on a theme. I will compare DrawBot to other “creative coding” apps such as Processing, and will conclude with a demo of some of the basic features of the app, focusing on drawing and manipulating shapes, text, and images.
 
-## Links
+## Presentation links
 
-### My Links
+### My links
 
 * [DJR](https://djr.com)
 * [Font of the Month Club](https://fontofthemonth.club)
+* Me elsewhere: [Twitter](http://twitter.com/djrrb) | [Instagram](http://instagram.com/djrrb/) |  [GitHub](http://github.com/djrrb/)
 * [MassArt](https://massart.edu)
-* [Type@Cooper](https://coopertype.org)
+* [Type@Cooper: Python for Visual Designers](http://coopertype.org/event/python_for_visual_designers_spr21)
 * [Input: Fonts for Code](http://input.fontbureau.com)
 
 ### DrawBot links
@@ -23,7 +24,7 @@ This repo contains links and supplemental files relating to [my presentation](ht
 * [DrawBot: Forum](https://forum.drawbot.com)
 * [@drawbotapp on Twitter](https://twitter.com/drawbotapp)
 
-### What can DrawBot make?
+### DrawBot in use
 
 * [Hansje van Halem: Lowlands 2018](http://www.hansje.net/Lowlands-2018)
 * [BadgeBot: Badges for Typographics 2015](https://github.com/djrrb/BadgeBot)
@@ -32,19 +33,20 @@ This repo contains links and supplemental files relating to [my presentation](ht
 * [Typographics 2018](https://2018.typographics.com) ([Fonts in Use](https://fontsinuse.com/uses/25802/typographics-2018-branding))
 * [Typographics 2019](https://2019.typographics.com)
 * [DrawBot Type Proofs](https://github.com/djrrb/Drawbot-Type-Proofs)
+* [Adidas N3XT L3V3L](https://grandarmy.com/projects/n3xt-l3v3l)
+* [International Center of Photography, Philadelphia](https://www.icp.org)
 * [OHNo Type Co.: Hobeaux Rococeaux](https://ohnotype.co/fonts/hobeaux-rococeaux) ([video demo](https://www.youtube.com/watch?v=dwn0M0GSVY0))
+* [Nina Stössinger: ColorCombinations.py](https://github.com/ninastoessinger/DrawBot-Scripts)
 * [Maurice Meilleur](https://mauricemeilleur.net)
-* [Nina Stössinger: Color Combinations](https://github.com/ninastoessinger/DrawBot-Scripts)
 * [Just van Rossum: Daily DrawBot](https://dailydrawbot.tumblr.com)
 
-### Extensions and Relatives
+### Related projects
 
-* [DrawBot Skia](github.com/justvanrossum/
-drawbot-skia) (cross-platform)
+* [DrawBot Skia](https://github.com/justvanrossum/drawbot-skia) (cross-platform)
 * [PageBot](https://pagebot.readthedocs.io)
+* [Flat](https://xxyxyz.org/flat)
 * [ColdType](https://coldtype.goodhertz.com)
 * [LAX](https://vimeo.com/449396594), by [Vulfpeck](https://vulfpeck.com)
-
 
 ## Additional links
 
