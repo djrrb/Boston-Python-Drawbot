@@ -1,8 +1,8 @@
 # License Summary
 
-## Testing
+## Testing license
 
-* Up to 0 desktop workstations, for testing purposes only
+* Up to 1 desktop workstations, for testing purposes only
 * Up to 0 monthly unique web visitors, for testing purposes only
 * Up to 0 e-books, for testing purposes only
 * Up to 0 mobile apps, for testing purposes only
